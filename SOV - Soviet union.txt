@@ -237,9 +237,9 @@ add_ideas = {
 }
 
 create_country_leader = {
-	name = "Joseph Stalin"
-	desc = "POLITICS_JOSEPH_STALIN_DESC"
-	picture = "Portrait_Soviet_Joseph_Stalin.dds"
+	name = "Big Red"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "bigred.dds"
 	expire = "1953.3.1"
 	ideology = stalinism
 	traits = {

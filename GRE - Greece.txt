@@ -125,9 +125,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Markos Vafiadis"
-	desc = "POLITICS_MARKOS_VAFIADIS_DESC"
-	picture = "Portrait_Greece_Markos_Vafiadis.dds"
+	name = "Mireya Santana"
+	desc = "POLITICS_KONSTANTINOS_TSALDARIS_DESC"
+	picture = "greece.dds"
 	expire = "1965.1.1"
 	ideology = marxism
 	traits = {

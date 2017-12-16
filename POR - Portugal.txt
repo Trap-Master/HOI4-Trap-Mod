@@ -141,9 +141,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Bento Gonçalves"
-	desc = "POLITICS_BENTO_GONCALVES_DESC"
-	picture = "gfx/leaders/South America/Portrait_South_America_Generic_land_5.dds"
+	name = "Oliveira Salazar"
+	desc = "POLITICS_ANTÓNIO_DE_OLIVEIRA_SALAZAR_DESC"
+	picture = "portugal.dds"
 	expire = "1965.1.1"
 	ideology = marxism
 	traits = {

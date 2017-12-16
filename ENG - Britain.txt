@@ -124,9 +124,9 @@ if = {
 
 	
 create_country_leader = {
-	name = "Neville Chamberlain"
-	desc = "POLITICS_NEVILLE_CHAMBERLAIN_DESC"
-	picture = "Portrait_Britain_Neville_Chamberlain.dds"
+	name = "Laci Green"
+	desc = "POLITICS_STANLEY_BALDWIN_DESC"
+	picture = "uk.dds"
 	expire = "1965.1.1"
 	ideology = liberalism
 	traits = {

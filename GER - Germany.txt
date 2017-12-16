@@ -255,9 +255,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Wilhelm Pieck"
-	desc = "POLITICS_WILHELM_PIECK_DESC"
-	picture = "Portrait_Germany_Wilhelm_Pieck.dds"
+	name = "Emilia Friederike"
+	desc = "POLITICS_KONRAD_ADENAUER_DESC"
+	picture = "alemania.dds"
 	expire = "1965.1.1"
 	ideology = stalinism
 	traits = {

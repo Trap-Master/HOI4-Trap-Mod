@@ -154,9 +154,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Fritz Platten"
-	desc = "POLITICS_FRITZ_PLATTEN_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	name = "Ernesta Betuin"
+	desc = "POLITICS_ERNST_BEGUIN_DESC"
+	picture = "sueca.dds"
 	expire = "1965.1.1"
 	ideology = marxism
 	traits = {

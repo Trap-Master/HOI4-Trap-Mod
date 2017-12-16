@@ -182,9 +182,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Édouard Daladier"
-	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
-	picture = "Portrait_France_Edouard_Daladier.dds"
+	name = "Marie Eugenio"
+	desc = "POLITICS_PHILIPPE_PÉTAIN_DESC"
+	picture = "french.dds"
 	expire = "1965.1.1"
 	ideology = socialism
 	traits = {

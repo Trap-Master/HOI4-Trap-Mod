@@ -126,9 +126,9 @@ set_politics = {
 set_convoys = 40
 
 create_country_leader = {
-	name = "Thorvald Stauning"
-	desc = "POLITICS_THORVALD_STAUNING_DESC"
-	picture = "Portrait_Denmark_Thorvald_Stauning.dds"
+	name = "Claudia Munch"
+	desc = "POLITICS_FRITS_CLAUSEN_DESC"
+	picture = "denmark.dds"
 	expire = "1965.1.1"
 	ideology = socialism
 	traits = {
@@ -148,9 +148,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Aksel Larsen"
-	desc = "POLITICS_AKSEL_LARSEN_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+	name = "Claudia Munch"
+	desc = "POLITICS_FRITS_CLAUSEN_DESC"
+	picture = "denmark.dds"
 	expire = "1965.1.1"
 	ideology = leninism
 	traits = {

@@ -149,9 +149,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Lou de Visser"
+	name = "Yolanda Amour"
 	desc = "POLITICS_LOU_DE_VISSER_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+	picture = "holanda.dds"
 	expire = "1965.1.1"
 	ideology = leninism
 	traits = {

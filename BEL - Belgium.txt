@@ -125,9 +125,9 @@ set_convoys = 80
 set_national_unity = 0.75
 
 create_country_leader = {
-	name = "Hubert Pierlot"
+	name = "Adalhiela Zurie"
 	desc = "POLITICS_HUBERT_PIERLOT_DESC"
-	picture = "Portrait_Belgium_Hubert_Pierlot.dds"
+	picture = "belgica.dds"
 	expire = "1965.1.1"
 	ideology = conservatism
 	traits = {

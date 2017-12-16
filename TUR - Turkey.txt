@@ -178,9 +178,8 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Sefik Hüsnü"
-	desc = "POLITICS_SEFIK_HUSNU_DESC"
-	picture = "gfx/leaders/TUR/Portrait_Turkey_Sefik_Husnu.dds"
+	name = "Mustafina çamak"
+	desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
 	expire = "1965.1.1"
 	ideology = marxism
 	traits = {

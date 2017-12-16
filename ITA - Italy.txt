@@ -182,9 +182,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Ferruccio Parri"
+	name = "Roma Azana"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "GFX_portrait_italy_ferruccio_parri"
+	picture = "italia.dds"
 	expire = "1965.1.1"
 	ideology = socialism
 	traits = {

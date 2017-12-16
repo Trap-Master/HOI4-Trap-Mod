@@ -174,9 +174,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Sven Linderot"
-	desc = "POLITICS_SVEN_LINDEROT_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+	name = "Flurry Bomvilla"
+	desc = "POLITICS_PER_ALBIN_HANSSON_DESC"
+	picture = "sweden.dds"
 	expire = "1965.1.1"
 	ideology = marxism
 	traits = {

@@ -230,9 +230,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Constantin Ion Parhon"
-	desc = "POLITICS_CONSTANTIN_PARHON_DESC"
-	picture = "Portrait_Romania_Constantin_Parhon.dds"
+	name = "Gheorgia Jitana"
+	desc = "POLITICS_GHEORGHE_TATARESCU_DESC"
+	picture = "romania.dds"
 	expire = "1965.1.1"
 	ideology = leninism
 	traits = {
